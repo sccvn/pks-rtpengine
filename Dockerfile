@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM debian:bookworm-slim
 
 LABEL maintainer="Mathias WOLFF <mathias@celea.org> (https://www.pyfreebilling.com/)"
 
