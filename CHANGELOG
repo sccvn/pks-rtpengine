@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.0.1
+
+Use the Bookworm slim version to avoid vulnerabilities
+
 ### 1.0.0
 
 Debian Bookworm release with RTP_ENGINE MR12.1
